@@ -4,7 +4,9 @@ A palindrome is a word, phrase, number, or other sequence of characters which re
 
 **Program**
 -------
-This program will take any word passed to it by the user and identify all possible palindromes of the word by addition of it's own characters. Take for example the word Mississippi. The program would identify both MississippippississiM as well as MississippississiM as potential palindrome from the base word of Mississippi.
+This program will take any word passed to it by the user and identify all possible palindromes of the word by addition of it's own characters. 
+
+Take for example the word Mississippi. The program would identify both MississippippississiM as well as MississippississiM as potential palindrome from the base word of Mississippi.
 
 
 **Potential additions**
