@@ -39,3 +39,6 @@ Then in week 3 we have 2 fruits from plant 1, 1 from plant 2, so we can plant 3 
     14
     9 
 
+Personal Feelings
+-----------------
+This programming fell into the [easy] category on the forum and felt as such. It was a simple variation on the fibonacci sequence. This was my first program in python, and I would say I had more trouble with syntax than with the actual logic of the program. Python seems very fun however!
