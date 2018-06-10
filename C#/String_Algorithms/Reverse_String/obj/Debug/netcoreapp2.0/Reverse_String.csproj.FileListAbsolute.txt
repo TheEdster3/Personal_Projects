@@ -1,0 +1,11 @@
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/bin/Debug/netcoreapp2.0/Reverse_String.deps.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/bin/Debug/netcoreapp2.0/Reverse_String.runtimeconfig.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/bin/Debug/netcoreapp2.0/Reverse_String.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/bin/Debug/netcoreapp2.0/Reverse_String.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/bin/Debug/netcoreapp2.0/Reverse_String.pdb
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/obj/Debug/netcoreapp2.0/Reverse_String.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/obj/Debug/netcoreapp2.0/Reverse_String.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/obj/Debug/netcoreapp2.0/Reverse_String.AssemblyInfoInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/obj/Debug/netcoreapp2.0/Reverse_String.AssemblyInfo.cs
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/obj/Debug/netcoreapp2.0/Reverse_String.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Reverse_String/obj/Debug/netcoreapp2.0/Reverse_String.pdb

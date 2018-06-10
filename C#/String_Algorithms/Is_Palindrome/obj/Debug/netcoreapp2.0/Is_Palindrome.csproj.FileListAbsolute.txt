@@ -1,0 +1,11 @@
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/bin/Debug/netcoreapp2.0/Is_Palindrome.deps.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/bin/Debug/netcoreapp2.0/Is_Palindrome.runtimeconfig.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/bin/Debug/netcoreapp2.0/Is_Palindrome.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/bin/Debug/netcoreapp2.0/Is_Palindrome.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/bin/Debug/netcoreapp2.0/Is_Palindrome.pdb
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/obj/Debug/netcoreapp2.0/Is_Palindrome.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/obj/Debug/netcoreapp2.0/Is_Palindrome.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/obj/Debug/netcoreapp2.0/Is_Palindrome.AssemblyInfoInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/obj/Debug/netcoreapp2.0/Is_Palindrome.AssemblyInfo.cs
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/obj/Debug/netcoreapp2.0/Is_Palindrome.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/String_Algorithms/Is_Palindrome/obj/Debug/netcoreapp2.0/Is_Palindrome.pdb
