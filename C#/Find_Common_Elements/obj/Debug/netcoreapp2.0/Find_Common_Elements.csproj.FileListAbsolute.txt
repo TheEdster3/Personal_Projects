@@ -1,0 +1,11 @@
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/obj/Debug/netcoreapp2.0/Find_Common_Elements.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/obj/Debug/netcoreapp2.0/Find_Common_Elements.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/obj/Debug/netcoreapp2.0/Find_Common_Elements.AssemblyInfoInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/obj/Debug/netcoreapp2.0/Find_Common_Elements.AssemblyInfo.cs
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/bin/Debug/netcoreapp2.0/Find_Common_Elements.deps.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/bin/Debug/netcoreapp2.0/Find_Common_Elements.runtimeconfig.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/bin/Debug/netcoreapp2.0/Find_Common_Elements.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/bin/Debug/netcoreapp2.0/Find_Common_Elements.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/bin/Debug/netcoreapp2.0/Find_Common_Elements.pdb
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/obj/Debug/netcoreapp2.0/Find_Common_Elements.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Common_Elements/obj/Debug/netcoreapp2.0/Find_Common_Elements.pdb
