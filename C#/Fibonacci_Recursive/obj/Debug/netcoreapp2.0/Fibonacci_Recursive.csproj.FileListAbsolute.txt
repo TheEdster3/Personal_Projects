@@ -1,0 +1,11 @@
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/bin/Debug/netcoreapp2.0/Fibonacci_Recursive.deps.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/bin/Debug/netcoreapp2.0/Fibonacci_Recursive.runtimeconfig.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/bin/Debug/netcoreapp2.0/Fibonacci_Recursive.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/bin/Debug/netcoreapp2.0/Fibonacci_Recursive.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/bin/Debug/netcoreapp2.0/Fibonacci_Recursive.pdb
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/obj/Debug/netcoreapp2.0/Fibonacci_Recursive.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/obj/Debug/netcoreapp2.0/Fibonacci_Recursive.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/obj/Debug/netcoreapp2.0/Fibonacci_Recursive.AssemblyInfoInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/obj/Debug/netcoreapp2.0/Fibonacci_Recursive.AssemblyInfo.cs
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/obj/Debug/netcoreapp2.0/Fibonacci_Recursive.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Fibonacci_Recursive/obj/Debug/netcoreapp2.0/Fibonacci_Recursive.pdb
