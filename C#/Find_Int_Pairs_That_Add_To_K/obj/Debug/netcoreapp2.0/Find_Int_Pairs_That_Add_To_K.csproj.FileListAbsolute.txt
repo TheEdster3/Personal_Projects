@@ -1,0 +1,11 @@
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/bin/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.deps.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/bin/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.runtimeconfig.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/bin/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/bin/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/bin/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.pdb
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/obj/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/obj/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/obj/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.AssemblyInfoInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/obj/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.AssemblyInfo.cs
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/obj/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Find_Int_Pairs_That_Add_To_10/obj/Debug/netcoreapp2.0/Find_Int_Pairs_That_Add_To_K.pdb
