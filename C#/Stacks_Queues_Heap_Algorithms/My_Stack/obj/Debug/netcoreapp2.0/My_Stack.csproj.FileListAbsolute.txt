@@ -1,0 +1,11 @@
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/bin/Debug/netcoreapp2.0/My_Stack.deps.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/bin/Debug/netcoreapp2.0/My_Stack.runtimeconfig.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/bin/Debug/netcoreapp2.0/My_Stack.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/bin/Debug/netcoreapp2.0/My_Stack.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/bin/Debug/netcoreapp2.0/My_Stack.pdb
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/obj/Debug/netcoreapp2.0/My_Stack.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/obj/Debug/netcoreapp2.0/My_Stack.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/obj/Debug/netcoreapp2.0/My_Stack.AssemblyInfoInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/obj/Debug/netcoreapp2.0/My_Stack.AssemblyInfo.cs
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/obj/Debug/netcoreapp2.0/My_Stack.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Stacks_Queues_Heap_Algorithms/My_Stack/obj/Debug/netcoreapp2.0/My_Stack.pdb

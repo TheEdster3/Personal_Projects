@@ -1,0 +1,11 @@
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/bin/Debug/netcoreapp2.0/BST_Tree.deps.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/bin/Debug/netcoreapp2.0/BST_Tree.runtimeconfig.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/bin/Debug/netcoreapp2.0/BST_Tree.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/bin/Debug/netcoreapp2.0/BST_Tree.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/bin/Debug/netcoreapp2.0/BST_Tree.pdb
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/obj/Debug/netcoreapp2.0/BST_Tree.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/obj/Debug/netcoreapp2.0/BST_Tree.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/obj/Debug/netcoreapp2.0/BST_Tree.AssemblyInfoInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/obj/Debug/netcoreapp2.0/BST_Tree.AssemblyInfo.cs
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/obj/Debug/netcoreapp2.0/BST_Tree.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Tree_Algorithms/BST_Tree/obj/Debug/netcoreapp2.0/BST_Tree.pdb

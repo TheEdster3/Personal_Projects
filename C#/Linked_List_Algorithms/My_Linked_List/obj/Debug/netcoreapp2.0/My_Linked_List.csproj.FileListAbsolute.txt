@@ -1,0 +1,11 @@
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/bin/Debug/netcoreapp2.0/My_Linked_List.deps.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/bin/Debug/netcoreapp2.0/My_Linked_List.runtimeconfig.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/bin/Debug/netcoreapp2.0/My_Linked_List.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/bin/Debug/netcoreapp2.0/My_Linked_List.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/bin/Debug/netcoreapp2.0/My_Linked_List.pdb
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/obj/Debug/netcoreapp2.0/My_Linked_List.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/obj/Debug/netcoreapp2.0/My_Linked_List.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/obj/Debug/netcoreapp2.0/My_Linked_List.AssemblyInfoInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/obj/Debug/netcoreapp2.0/My_Linked_List.AssemblyInfo.cs
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/obj/Debug/netcoreapp2.0/My_Linked_List.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Linked_List_Algorithms/My_Linked_List/obj/Debug/netcoreapp2.0/My_Linked_List.pdb

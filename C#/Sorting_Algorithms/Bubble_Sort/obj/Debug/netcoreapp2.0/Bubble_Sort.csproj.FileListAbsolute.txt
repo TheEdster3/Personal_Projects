@@ -1,0 +1,11 @@
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/obj/Debug/netcoreapp2.0/Bubble_Sort.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/obj/Debug/netcoreapp2.0/Bubble_Sort.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/obj/Debug/netcoreapp2.0/Bubble_Sort.AssemblyInfoInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/obj/Debug/netcoreapp2.0/Bubble_Sort.AssemblyInfo.cs
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/bin/Debug/netcoreapp2.0/Bubble_Sort.deps.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/bin/Debug/netcoreapp2.0/Bubble_Sort.runtimeconfig.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/bin/Debug/netcoreapp2.0/Bubble_Sort.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/bin/Debug/netcoreapp2.0/Bubble_Sort.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/bin/Debug/netcoreapp2.0/Bubble_Sort.pdb
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/obj/Debug/netcoreapp2.0/Bubble_Sort.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Sorting_Algorithms/Bubble_Sort/obj/Debug/netcoreapp2.0/Bubble_Sort.pdb
