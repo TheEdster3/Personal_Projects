@@ -1,0 +1,11 @@
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/bin/Debug/netcoreapp2.0/Library.deps.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/bin/Debug/netcoreapp2.0/Library.runtimeconfig.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/bin/Debug/netcoreapp2.0/Library.runtimeconfig.dev.json
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/bin/Debug/netcoreapp2.0/Library.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/bin/Debug/netcoreapp2.0/Library.pdb
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/obj/Debug/netcoreapp2.0/Library.csprojAssemblyReference.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/obj/Debug/netcoreapp2.0/Library.csproj.CoreCompileInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/obj/Debug/netcoreapp2.0/Library.AssemblyInfoInputs.cache
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/obj/Debug/netcoreapp2.0/Library.AssemblyInfo.cs
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/obj/Debug/netcoreapp2.0/Library.dll
+/Users/Macbook/Personal_Projects/Personal_Projects/C#/Library/obj/Debug/netcoreapp2.0/Library.pdb

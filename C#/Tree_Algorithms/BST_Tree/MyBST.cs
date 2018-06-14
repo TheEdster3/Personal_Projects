@@ -65,7 +65,45 @@ namespace BST_Tree
 
         public void Delete(Node nodeToBeDeleted)
         {
-
+            if(root == null)
+            {
+                throw new NullReferenceException();
+            }
+            else
+            {
+                Node current = root;
+                Node parent;
+                while(current != null)
+                {
+                    parent = current;
+                    if(nodeToBeDeleted.value < current.value)
+                    {
+                        if(current.left == null && current.right == null)
+                        {
+                            Console.WriteLine(nodeToBeDeleted.value + " Does not exist in the tree");
+                        }
+                        if(current.left != null)
+                        {
+                            current = current.left;
+                        }
+                    }
+                    else if(nodeToBeDeleted.value > current.value)
+                    {
+                        if(current.left == null && current.right == null)
+                        {
+                            Console.WriteLine(nodeToBeDeleted.value + " Does not exist in the tree");
+                        }
+                        if(current.right != null)
+                        {
+                            current = current.right;
+                        }
+                    }
+                    else
+                    {
+                        
+                    }
+                }
+            }
         }
         public void Delete(int value)
         {

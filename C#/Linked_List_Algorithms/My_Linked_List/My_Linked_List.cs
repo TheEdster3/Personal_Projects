@@ -13,22 +13,61 @@ namespace My_Linked_List
             {
                 this.value = value;
             }
+            public Node()
+            {
+            }
         }
+
         public My_Linked_List(int value)
         {
             head = new Node(value);
         }
         private void Insert(Node newNode)
         {
+
         }
         public void Insert(int value)
         {
             Node newNode = new Node(value);
-            this.Insert(newNode);
+            newNode.next = head;
+            head = newNode;
+            //this.Insert(newNode);
         } 
-
+        public void InsertLast(int value)
+        {
+            Node tempNode = new Node();
+            Node newNode = new Node(value);
+            if(head == null)
+            {
+                head = newNode;
+                return;
+            }
+            tempNode = head;
+            while(tempNode.next != null)
+            {
+                tempNode = tempNode.next;
+            }
+            tempNode.next = newNode;
+        }
         public void Remove(int value)
         {
+            Node temp = head;
+            Node prev = null;
+            if(temp != null && temp.value == value)
+            {
+                head = temp.next;
+                return;
+            }
+            while(temp != null && temp.value != value)
+            {
+                prev = temp;
+                temp = temp.next;
+            }
+            if(temp == null)
+            {
+                return;
+            }
+            prev.next = temp.next;
         }
 
         public void PrintAllNodes()
